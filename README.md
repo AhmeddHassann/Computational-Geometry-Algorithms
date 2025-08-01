@@ -1,0 +1,1 @@
+This repository contains implementations of various Computational Geometry algorithms with a focus on Convex Hull and Extreme Points problems. These algorithms are fundamental in fields like computer graphics, robotics, and geometric data analysis.
